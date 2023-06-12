@@ -8,6 +8,6 @@ public class sum
 
 
         
-        System.out.println("The sum of a and b is = "+c);
+        System.out.println(c);
     }
 }
